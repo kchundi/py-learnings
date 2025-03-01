@@ -24,4 +24,4 @@ print(e,"Print e alue ")
 print (type(e), "type(e)")
 
 print(f,"Print F value ")
-print (type(f), "type(  e)")
+print (type(f), "type")
